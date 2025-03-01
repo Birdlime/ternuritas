@@ -1,0 +1,329 @@
+.S1seccion-023{
+    width: 100%;
+    height: auto;
+    /* background-color: #c70700; */
+    display: none;
+    position: absolute;
+    z-index: 1;
+}
+.S1seccion-023-22{
+    width: 100%;
+    height: auto;
+    /* background-color: #c70700; */
+    display: none;
+}
+.S1seccion-023-33{
+    width: 100%;
+    height: auto;
+    /* background-color: #c70700; */
+    display: none;
+}
+.S1seccion-023-44{
+    width: 100%;
+    height: auto;
+    /* background-color: #c70700; */
+    display: none;
+}
+.S1seccion-023-55{
+    width: 100%;
+    height: auto;
+    /* background-color: #c70700; */
+    display: none;
+}
+.S1seccion-023-22-33-44-55{
+    /* display: block; */
+    display: none;
+}
+.container023{
+    /* background-color: #236cd8; */
+    max-width: 2200px;
+    height: auto;
+    margin: 0 0 auto auto;
+
+    padding: 0 2rem;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+}
+.a000-023{
+    width: 100%;
+    height: auto;
+    background-color: #dfdfdf; 
+
+    display: flex;
+    align-items: center;
+    margin: auto;
+    margin-top: -2rem;
+    padding: 0 0 1rem 0;
+    border-radius: 2rem;
+    border-bottom: 1rem solid #01aa93;
+}
+.a001-023{
+    width: 40rem;
+    height: auto;
+    background-color: #ffffff;
+    margin: auto; 
+    padding: .5rem;
+    border-radius: 1rem;
+    box-shadow: inset 1rem 1rem 1rem 1rem #ffffff;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+    position: relative;
+}
+.a001-023:hover{
+    box-shadow: inset 1rem 1rem 1rem 1rem #ececec;
+}
+.a001-023 span{
+    /* width: 15rem; */
+    font-size: 2.5rem;
+    font-weight: 500;
+    color: #000000;
+    text-align: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+/* primer grupo */
+
+@media (max-width: 2470px) {
+    .container023{
+        max-width: 2070px;
+    }
+}
+@media (max-width: 2370px) {
+    .container023{
+        max-width: 1970px;
+    }
+}
+@media (max-width: 2270px) {
+    .container023{
+        max-width: 1870px;
+    }
+}
+@media (max-width: 2170px) {
+    .container023{
+        max-width: 1770px;
+    }
+}
+@media (max-width: 2070px) {
+    .container023{
+        max-width: 1670px;
+    }
+}
+@media (max-width: 1970px) {
+    .container023{
+        max-width: 1570px;
+    }
+}
+
+
+
+
+
+
+/* segundo grupo */
+
+@media (max-width: 1870px) {
+    .container023{
+        max-width: 1570px;
+    }
+}
+@media (max-width: 1770px) {
+    .container023{
+        max-width: 1470px;
+    }
+}
+@media (max-width: 1670px) {
+    .container023{
+        max-width: 1370px;
+    }
+}
+@media (max-width: 1570px) {
+    .container023{
+        max-width: 1370px;
+    }
+}
+@media (max-width: 1470px) {
+    .container023{
+        max-width: 1270px;
+    }
+}
+@media (max-width: 1370px) {
+    .container023{
+        max-width: 1170px;
+    }
+}
+
+
+
+
+
+
+/* tercer grupo */
+
+@media (max-width: 1270px) {
+    .container023{
+        max-width: 1170px;
+    }
+}
+@media (max-width: 1170px) {
+    .container023{
+        max-width: 1070px;
+    }
+}
+@media (max-width: 1070px) {
+    .container023{
+        max-width: 970px;
+    }
+}
+@media (max-width: 970px) {
+    .container023{
+        max-width: 970px;
+    }
+}
+@media (max-width: 870px) {
+    .container023{
+        max-width: 870px;
+    }
+    .S1seccion-023{
+        display: none;
+    }
+}
+@media (max-width: 770px) {
+    .container023{
+        max-width: 770px;
+    }
+}
+
+
+
+
+
+
+/* cuarto grupo */
+
+@media (max-width: 670px) {
+    .container023{
+        max-width: 670px;
+    }
+}
+@media (max-width: 570px) {
+    .container023{
+        max-width: 570px;
+    }
+}
+@media (max-width: 470px) {
+    .container023{
+        max-width: 470px;
+    }
+
+}
+@media (max-width: 370px) {
+
+    .container023{
+        max-width: 370px;
+    }
+}
+@media (max-width: 270px) {
+    .container023{
+        max-width: 270px;
+    }
+}
+@media (max-width: 170px) {
+    .container023{
+        max-width: 170px;
+    }
+}
+@media (max-width: 160px) {
+
+    .container023{
+        display: block;
+    }
+}
+
+
+
+
+
+
+/* quinto grupo */
+
+@media (max-width: 150px) {
+    .container023{
+        max-width: 150px;
+    }
+}
+@media (max-width: 130px) {
+    .container023{
+        max-width: 130px;
+    }
+}
+@media (max-width: 110px) {
+    .container023{
+        max-width: 110px;
+    }
+}
+@media (max-width: 100px) {
+    .container023{
+        max-width: 100px;
+    }
+}
+@media (max-width: 90px) {
+    .container023{
+        max-width: 90px;
+    }
+}
+@media (max-width: 80px) {
+    .container023{
+        max-width: 80px;
+    }
+}
+
+
+
+
+
+
+/* sexto grupo */
+
+@media (max-width: 70px) {
+    .container023{
+        max-width: 70px;
+    }
+}
+@media (max-width: 60px) {
+    .container023{
+        max-width: 60px;
+    }
+}
+@media (max-width: 50px) {
+    .container023{
+        max-width: 50px;
+    }
+}
+@media (max-width: 40px) {
+    .container023{
+        max-width: 40px;
+    }
+}
+@media (max-width: 30px) {
+    .container023{
+        max-width: 30px;
+    }
+}
+@media (max-width: 20px) {
+    .container023{
+        max-width: 20px;
+    }
+}

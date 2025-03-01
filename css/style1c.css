@@ -1,0 +1,859 @@
+.C-048 {
+    display: none;
+}
+
+.C-019{
+    font-family: 'Poppins', sans-serif;
+    width: auto;
+    height: auto;
+    /* background-color: #7a2929; */
+    position: fixed;
+    right: 2vw;
+    bottom: 3vh;
+    display: none;
+}
+.C-020{
+    max-width: 1170px;
+    min-width: 768px;
+    /* background-color: #33dd1c; */
+}
+.C-021{
+    width: 70px;
+    height: 70px;
+    margin: 10px 0;
+    /* background-color: #fff; */
+    display: flex;
+    position: relative;
+}
+.C-021none{
+    display: none;
+}
+.C-021 .C-022{
+    /* width: 100%;
+    height: 100%; */
+    font-size: 70px;
+}
+.C-024{
+    width: 350px;
+    height: 400px;
+    background-color: #ffffff;
+    margin-right: -100px;
+    margin: -200px 0 0 0;
+    border-radius: 20px;
+    box-shadow: 0 5px 5px #07838b, inset 0 5px 5px #07838b;
+    border: 2px solid #ffffff;
+}
+.C-024none{
+    display: none;
+}
+.C-024fondo{
+    background-color: #feffd0;
+}
+.C-025{
+    width: 350px;
+    height: 100px;
+    /* background-color: #e088cc; */
+    display: flex;
+}
+.C-026{
+    width: 335px;
+    height: 200px;
+    background-image: url(../img/b5a71c9b319b399f7fd14ba77cef80cb.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 130%;
+    padding-top: 25px;
+    padding-left: 15px;
+    margin: 0 auto;
+}
+.C-026chat{
+    background-image: none;
+}
+.C-026-messenger{
+    background-color: #3dd6fc;
+    width: 335px;
+    height: 200px;
+    padding-top: 25px;
+    padding-left: 15px;
+    margin: 0 auto;
+}
+.C-026-1{
+    width: 250px;
+    height: 150px;
+    /* background-color: #aef59d; */
+    display: flex;
+}
+.C-026-1chat{
+    width: 305px;
+    height: 250px;
+    /* background-color: #aef59d; */
+    background-image: none;
+}
+.C-026-12{
+    width: 12px;
+    height: 15px;
+    background-color: #ffffff;
+    clip-path: polygon(0 0, 100% 100%, 100% 0);
+}
+.C-026-13{
+    width: 238px;
+    height: 150px;
+    background-color: #ffffff;
+    border-radius: 0 5% 5%;
+    padding: 5px 0 0 5px;
+}
+.C-026-13-1{
+    color: #000000;
+}
+.C-026-13-2{
+    color: #000000;
+}
+.C-027{
+    width: 350px;
+    height: 100px;
+    /* background-color: #caab23; */
+    padding-top: 30px;
+    padding-left: 50px;
+}
+.C-027-1{
+    height: 30px;
+    width: 250px;
+    background-color: #1ebb5f;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    font-weight: 700;
+    font-size: 17px;
+    border-radius: 20px;
+}
+.C-027-1-messenger{
+    background-color: #2899da;
+}
+.C-028{
+    width: 60px;
+    height: 100px;
+    /* background-color: #d8943b; */
+    display: flex;
+}
+.C-031{
+    width: 100%;
+    height: 60px;
+    /* background-color: #241b10; */
+    margin: auto;
+}
+.C-031 i{
+    font-size: 60px;
+}
+.C-029{
+    width: 260px;
+    height: 100px;
+    /* background-color: #ca23c2; */
+    color: #000000;
+    margin: 0 0 0 10px;
+    padding: 10px 0 10px 0;
+}
+.C-029-1{
+    display: block;
+    height: 40px;
+    color: rgb(0, 0, 0);
+    font-weight: 600;
+}
+.C-029-2{
+    display: block;
+    height: 40px;
+    color: rgb(0, 0, 0);
+    font-weight: 100;
+}
+.C-030{
+    width: 30px;
+    height: 100px;
+    /* background-color: #bbaf7a; */
+}
+.C-030-1{
+    top: 0;
+    width: 30px;
+    height: 30px;
+    background-color: #ffffff;
+    color: #1d1d1d;
+}
+.C-030-1:hover{
+    background-color: #0d9918;
+    color: #3dfce2;
+}
+.C-030-1 i{
+    font-size: 60px;
+    margin: -15px 0 0 -15px;
+}
+.C-033{
+    width: 100%;
+    margin-top: 5px;
+    color: #000000;
+}
+.C-033-mensaje{
+    height: 130px;
+}
+.C-034{
+    margin: 0 0 0 120px;
+    color: #000000;
+}
+
+
+/* estrictamente de la galeria estrictamente de la galeria estrictamente de la galeria */
+.S1seccion-021{
+    width: 100%;
+    height: auto;
+    background-color: #6a44d1;
+}
+.S1seccion-008principalEspacio{
+    padding: 25rem 0 0 0;
+}
+.container021{
+    background-color: #b341e0;
+    max-width: 2200px;
+    height: auto;
+    margin: 0 auto;
+
+    padding: 0 0 3rem 0;
+    display: flex;
+    flex-wrap: wrap;
+
+    position: relative;
+}
+.C-041{
+    height: auto;
+    /* background-color: #eb6c6c; */
+    width: 33.3333%;
+    margin: 0 auto;
+    padding: 0 4rem 8rem 4rem;
+
+    display: flex;
+   
+}
+.C-041part1{
+    height: auto;
+    background-color: #860e0e;
+    width: 100%;
+    margin: 0 auto;
+    padding: 0 4rem 8rem 4rem;
+
+    display: flex;
+}
+.C-041part2{
+    height: auto;
+    background-color: #2460a0;
+    width: auto;
+    margin: 0 auto;
+
+    display: flex;
+}
+.C-042{
+    height: 100%;
+    width: 100%;
+    border: .5rem solid #ffffff;
+    border-radius: 2rem;
+    box-shadow: 0 0 2rem 0rem #008b80, inset 0 0 2rem 0rem #008b80;
+    overflow: hidden;
+
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+}
+.C-042-1{
+    width: 100%;
+    height: auto;
+    position: relative;
+
+    display: flex;
+
+}
+.C-042-1 iframe{
+    width: 100%;
+    height: 110rem
+}
+.C-042-1img2{
+    background-image: linear-gradient(180deg, #00000071 0%, #0000004b 100%), url(../img/Curso\ Autodesk\ Revit.jpg);
+}
+.C-042-1img3{
+    background-image: linear-gradient(180deg, #00000071 0%, #0000004b 100%), url(../img/Curso\ InDesign\ CC\ para\ Diseñadores\,\ Dec…y\ Arquitectos.jpg);
+}
+.C-042-1img4{
+    background-image: linear-gradient(180deg, #00000071 0%, #0000004b 100%), url(../img/Curso\ Autocad.jpg);
+}
+.C-042-1img5{
+    background-image: linear-gradient(180deg, #00000071 0%, #0000004b 100%), url(../img/Curso\ Enscape.png);
+}
+.C-042-1img6{
+    background-image: linear-gradient(180deg, #00000071 0%, #0000004b 100%), url(../img/Curso\ 3ds\ Max.png);
+}
+.C-042-1img7{
+    background-image: linear-gradient(180deg, #00000071 0%, #0000004b 100%), url(../img/curso\ photoshop.jpg);
+}
+.C-042-1img8{
+    background-image: linear-gradient(180deg, #00000071 0%, #0000004b 100%), url(../img/Curso\ VRay\ Next\ para\ SketchUp.jpg);
+}
+.C-042-1img9{
+    background-image: linear-gradient(180deg, #00000071 0%, #0000004b 100%), url(../img/Master\ Arquitectura\ de\ Interiores.jpg);
+}
+.C-042-1img10{
+    background-image: linear-gradient(180deg, #00000071 0%, #0000004b 100%), url(../img/Master\ Diseño\ Grafico.jpg);
+}
+.C-042-1img11{
+    background-image: linear-gradient(180deg, #00000071 0%, #0000004b 100%), url(../img/Arquitectura\ Ecológica\,\ Sostenible\ y\ Bioclimática.JPG);
+}
+.C-042-12{
+    width: 100%;
+    height: 8rem;
+    /* background-color: #f3d1d1; */
+
+    display: flex;
+    position: absolute;
+}
+
+.C-042-12-cd1{
+    width: auto;
+    height: auto;
+    background-color: #575757;
+    margin: 0 0 0 auto;
+    color: #fff;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.C-042-12-cd1 i{
+    font-size: 4rem;
+    padding-right: 2rem;
+    color: #ffff00;
+}
+.C-042-12-cd1 span{
+    font-size: 2.5rem;
+    font-weight: 700;
+}
+
+.C-042-14{
+    width: 100%;
+    height: auto;
+    /* background-color: #3d4ccf; */
+    margin: 80rem auto 0;
+    
+    display: flex;
+    position: absolute;
+}
+.C-042-14-cd1{
+    margin: auto 2rem 0 auto;
+    width: auto;
+    height: auto;
+    /* background-color: #b9cf3d; */
+    color: #ffffff;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.C-042-14-cd1 i{
+    font-size: 3rem;
+    padding-right: 2rem;
+    /* background-color: #c74141; */
+}
+.C-042-14-cd1 span{
+    font-size: 2.5rem;
+    font-weight: 700;
+}
+
+
+/* este seria el tétulo  */
+.C-042-2{
+    width: 100%;
+    height: auto;
+    /* background-color: #63d3db; */
+    padding: 2rem;
+    /* box-shadow: 0 .5rem .5rem -.5rem #000000; */
+
+    display: flex;
+    text-align: center;
+}
+.C-042-2-11{
+    font-size: 2.5rem;
+    font-weight: 700;
+    color: #000000;
+    margin: auto;
+    line-height: 1.2;
+}
+
+.C-042-5{
+    width: 100%;
+    height: auto;
+    /* background-color: #b0d42c; */
+    margin: auto auto 0;
+
+    padding: 2rem;
+    display: flex;
+}
+.C-042-5-11{
+    width: 80%;
+    height: auto;
+    background-color: #00ff40;
+    border-radius: 1rem;
+    margin: auto;
+    font-size: 2.5rem;
+    font-weight: 700;
+    cursor: pointer;
+
+    padding: 1rem .5rem;
+    display: flex;
+    text-align: center;
+}
+.C-042-5-11:hover{
+    background-color: #00e5ff;
+}
+.C-042-5-11.C-042-5-11cambiado {
+    background-color: #d7faff; /* Cambia de color al hacer clic */
+}
+.C-042-5-1112{
+    margin: auto;
+}
+
+/* este es el cuadro de video para reproducirse */
+.C-043{
+    position: fixed;
+    width: 60vw;
+    height: 60vh;
+    background-color: #98ff94;
+    right: 20%;
+    top: 10vh;
+    border: 3px solid #ffffff;
+    border-radius: 20px;
+    overflow: hidden;
+    box-shadow: 0 0 10px 0 #000000, inset 0 0 10px 0 #000000;
+    z-index: 2;
+
+}
+.C-043none{
+ display: none;
+}
+.C-043-2{
+    width: 100%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+}
+.C-044{
+    margin: 0 auto;
+    width: 100%;
+    height: 100%;
+}
+.C-044-22{
+    color: #d30c0c;
+}
+.C-044-22none{
+    display: none;
+    visibility: hidden;
+}
+.C-045{
+    position: absolute;
+    width: 50px;
+    height: 50px;
+    background-color: #3dceb6;
+    z-index: 100;
+    top: -5px;
+    right: 0;
+    border-radius: 20%;
+    font-size: 55px;
+}
+/* .C-046{
+    width: 60px;
+    height: 40px;
+    background-color: #ff0000;
+} */
+
+
+/* de abaut */
+
+.C-046{
+    width: 45% !important;
+    display: flex;
+    height: 100% !important;
+}
+.C-047{
+    width: 100%;
+    margin: 0;
+    text-align: center;
+    height: auto;
+}
+.C-048{
+    display: none;
+}
+
+
+@media(max-width: 1290px){
+    .C-043{
+        position: fixed;
+        width: 90vw;
+        height: 60vh;
+        background-color: #db4444;
+        right: 4vw;
+        top: 20vh;
+        /* display: none; */
+    }
+}
+/* aqui vendria ventana para la promocion */
+/* aqui vendria ventana para la promocion */
+/* aqui vendria ventana para la promocion */
+
+.pro-1{
+    position: fixed;
+    width: 100%;
+    height: 60vh;
+    background-color: #1bab08;
+    display: none;
+}
+
+
+
+
+
+
+
+/* primer grupo */
+
+@media (max-width: 2470px) {
+    html {
+        font-size: 9px;
+    }
+    .container021{
+        max-width: 1800px;
+    }
+}
+@media (max-width: 2370px) {
+    html {
+        font-size: 9px;
+    }
+    .container021{
+        max-width: 1600px;
+    }
+}
+@media (max-width: 2270px) {
+    html {
+        font-size: 9px;
+    }
+    .container021{
+        max-width: 1870px;
+    }
+}
+@media (max-width: 2170px) {
+    html {
+        font-size: 8px;
+    }
+    .container021{
+        max-width: 1770px;
+    }
+}
+@media (max-width: 2070px) {
+    html {
+        font-size: 8px;
+    }
+    .container021{
+        max-width: 1670px;
+    }
+}
+@media (max-width: 1970px) {
+    html {
+        font-size: 8px;
+    }
+    .container021{
+        max-width: 1570px;
+    }
+}
+
+
+
+
+
+
+/* segundo grupo */
+
+@media (max-width: 1870px) {
+    html {
+        font-size: 7px;
+    }
+    .container021{
+        max-width: 1570px;
+    }
+}
+@media (max-width: 1770px) {
+    html {
+        font-size: 7px;
+    }
+    .container021{
+        max-width: 1470px;
+    }
+}
+@media (max-width: 1670px) {
+    html {
+        font-size: 7px;
+    }
+    .container021{
+        max-width: 1370px;
+    }
+}
+@media (max-width: 1570px) {
+    html {
+        font-size: 6px;
+    }
+    .container021{
+        max-width: 1370px;
+    }
+}
+@media (max-width: 1470px) {
+    html {
+        font-size: 6px;
+    }
+    .container021{
+        max-width: 1270px;
+    }
+}
+@media (max-width: 1370px) {
+    html {
+        font-size: 6px;
+    }
+    .container021{
+        max-width: 1170px;
+    }
+}
+
+
+
+
+
+
+/* tercer grupo */
+
+@media (max-width: 1270px) {
+    html {
+        font-size: 5px;
+    }
+    .container021{
+        max-width: 1170px;
+    }
+}
+@media (max-width: 1170px) {
+    html {
+        font-size: 5px;
+    }
+    .container021{
+        max-width: 1070px;
+    }
+}
+@media (max-width: 1070px) {
+    html {
+        font-size: 5px;
+    }
+    .container021{
+        max-width: 970px;
+    }
+}
+@media (max-width: 970px) {
+    html {
+        font-size: 4px;
+    }
+    .container021{
+        max-width: 970px;
+    }
+}
+@media (max-width: 870px) {
+    html {
+        font-size: 4px;
+    }
+    .container021{
+        max-width: 870px;
+    }
+}
+@media (max-width: 770px) {
+    html {
+        font-size: 4px;
+    }
+    .container021{
+        max-width: 770px;
+    }
+    .C-041{
+        width: 33.33%;
+    }
+}
+
+
+
+
+
+
+/* cuarto grupo */
+
+@media (max-width: 670px) {
+    html {
+        font-size: 3px;
+    }
+    .container021{
+        max-width: 670px;
+    }
+}
+@media (max-width: 570px) {
+    html {
+        font-size: 3px;
+    }
+    .container021{
+        max-width: 570px;
+    }
+}
+@media (max-width: 470px) {
+    html {
+        font-size: 3px;
+    }
+    .container021{
+        max-width: 470px;
+    }
+    .a001-014{
+        width: 33.33%;
+    }
+    .C-041{
+        width: 50%;
+    }
+
+}
+@media (max-width: 370px) {
+    html {
+        font-size: 2px;
+    }
+    .container021{
+        max-width: 370px;
+    }
+}
+@media (max-width: 270px) {
+    html {
+        font-size: 2px;
+    }
+    .container021{
+        max-width: 270px;
+    }
+}
+@media (max-width: 170px) {
+    html {
+        font-size: 2px;
+    }
+    .container021{
+        max-width: 170px;
+    }
+    .C-041{
+        width: 100%;
+    }
+}
+
+
+
+
+
+
+/* quinto grupo */
+
+@media (max-width: 150px) {
+    html {
+        font-size: 1.5px;
+    }
+    .container021{
+        max-width: 150px;
+    }
+}
+@media (max-width: 130px) {
+    html {
+        font-size: 1.5px;
+    }
+    .container021{
+        max-width: 130px;
+    }
+}
+@media (max-width: 110px) {
+    html {
+        font-size: 1.5px;
+    }
+    .container021{
+        max-width: 110px;
+    }
+}
+@media (max-width: 100px) {
+    html {
+        font-size: 1px;
+    }
+    .container021{
+        max-width: 100px;
+    }
+}
+@media (max-width: 90px) {
+    html {
+        font-size: 1px;
+    }
+    .container021{
+        max-width: 90px;
+    }
+}
+@media (max-width: 80px) {
+    html {
+        font-size: 1px;
+    }
+    .container021{
+        max-width: 80px;
+    }
+}
+
+
+
+
+
+
+/* sexto grupo */
+
+@media (max-width: 70px) {
+    html {
+        font-size: 0.5px;
+    }
+    .container021{
+        max-width: 70px;
+    }
+}
+@media (max-width: 60px) {
+    html {
+        font-size: 0.5px;
+    }
+    .container021{
+        max-width: 60px;
+    }
+}
+@media (max-width: 50px) {
+    html {
+        font-size: 0.5px;
+    }
+    .container021{
+        max-width: 50px;
+    }
+}
+@media (max-width: 40px) {
+    html {
+        font-size: 0.1px;
+    }
+    .container021{
+        max-width: 40px;
+    }
+}
+@media (max-width: 30px) {
+    html {
+        font-size: 0.1px;
+    }
+    .container021{
+        max-width: 30px;
+    }
+}
+@media (max-width: 20px) {
+    html {
+        font-size: 0.1px;
+    }
+    .container021{
+        max-width: 20px;
+    }
+}
+

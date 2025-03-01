@@ -1,0 +1,263 @@
+.CamLigero{
+    width: 100%;
+    height: auto;
+    /* background-color: #e24de7; */
+    min-height: 100vh;
+
+}
+.CamLigero-1{
+    width: 100%;
+    height: auto;
+    /* background-color: #e24de7; */
+    padding-top: 15rem;
+}
+.CamLigero-2{
+    /* height: 100%;
+    flex-direction: column; */
+}
+.span{
+    padding-top: 30rem;
+    padding-bottom: 100rem;
+    font-size: 5rem;
+    display: block;
+}
+.temp123:hover{
+    color: #00ffff;
+}
+
+
+
+
+
+
+
+
+
+/* primer grupo */
+
+@media (max-width: 2470px) {
+    html {
+        font-size: 9.8px;
+    }
+}
+@media (max-width: 2370px) {
+    html {
+        font-size: 9.6px;
+    }
+}
+@media (max-width: 2270px) {
+    html {
+        font-size: 9.4px;
+    }
+}
+@media (max-width: 2170px) {
+    html {
+        font-size: 9.2px;
+    }
+}
+@media (max-width: 2070px) {
+    html {
+        font-size: 9px;
+    }
+}
+@media (max-width: 1970px) {
+    html {
+        font-size: 8.8px;
+    }
+}
+
+
+
+
+
+
+/* segundo grupo */
+
+@media (max-width: 1870px) {
+    html {
+        font-size: 8.6px;
+    }
+}
+@media (max-width: 1770px) {
+    html {
+        font-size: 8.4px;
+    }
+}
+@media (max-width: 1670px) {
+    html {
+        font-size: 8.2px;
+    }
+}
+@media (max-width: 1570px) {
+    html {
+        font-size: 8px;
+    }
+}
+@media (max-width: 1470px) {
+    html {
+        font-size: 7.8px;
+    }
+}
+@media (max-width: 1370px) {
+    html {
+        font-size: 7.6px;
+    }
+}
+
+
+
+
+
+
+/* tercer grupo */
+
+@media (max-width: 1270px) {
+    html {
+        font-size: 7.4px;
+    }
+}
+@media (max-width: 1170px) {
+    html {
+        font-size: 7.2px;
+    }
+}
+@media (max-width: 1070px) {
+    html {
+        font-size: 7px;
+    }
+}
+@media (max-width: 970px) {
+    html {
+        font-size: 6.8px;
+    }
+}
+@media (max-width: 870px) {
+    html {
+        font-size: 6.6px;
+    }
+}
+@media (max-width: 770px) {
+    html {
+        font-size: 6.4px;
+    }
+}
+
+
+
+
+
+
+/* cuarto grupo */
+
+@media (max-width: 670px) {
+    html {
+        font-size: 6.2px;
+    }
+}
+@media (max-width: 570px) {
+    html {
+        font-size: 6px;
+    }
+}
+@media (max-width: 470px) {
+    html {
+        font-size: 5.8px;
+    }
+
+}
+@media (max-width: 370px) {
+    html {
+        font-size: 5.6px;
+    }
+}
+@media (max-width: 270px) {
+    html {
+        font-size: 5.2px;
+    }
+}
+@media (max-width: 173px) {
+    html {
+        font-size: 4.8px;
+    }
+}
+
+
+
+
+
+
+/* quinto grupo */
+
+@media (max-width: 150px) {
+    html {
+        font-size: 4.4px;
+    }
+}
+@media (max-width: 130px) {
+    html {
+        font-size: 4px;
+    }
+}
+@media (max-width: 110px) {
+    html {
+        font-size: 3.6px;
+    }
+}
+@media (max-width: 100px) {
+    html {
+        font-size: 3.2px;
+    }
+}
+@media (max-width: 90px) {
+    html {
+        font-size: 2.8px;
+    }
+}
+@media (max-width: 80px) {
+    html {
+        font-size: 2.4px;
+    }
+}
+
+
+
+
+
+
+/* sexto grupo */
+
+@media (max-width: 70px) {
+    html {
+        font-size: 2px;
+    }
+}
+@media (max-width: 63px) {
+    html {
+        font-size: 1.6px;
+    }
+}
+@media (max-width: 53px) {
+    html {
+        font-size: 1.2px;
+    }
+}
+@media (max-width: 40px) {
+    html {
+        font-size: 0.9px;
+    }
+}
+@media (max-width: 30px) {
+    html {
+        font-size: 0.8px;
+    }
+}
+@media (max-width: 20px) {
+    html {
+        font-size: 0.7px;
+    }
+}
+@media (max-width: 10px) {
+    html {
+        font-size: 0.6px;
+    }
+}
